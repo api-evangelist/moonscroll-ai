@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MoonScroll is a video intelligence platform that analyzes short‑form video content across TikTok, Reels, and Shorts to provide creators, brands, agencies, and platforms with actionable insights. It offers AI‑generated content ideas, scripts, and trend detection, delivering daily summaries and real‑time hook analysis to help users stay ahead of audience preferences.
+MoonScroll is a video intelligence platform that uses AI to analyze short-form video content across TikTok, Reels, and Shorts. It provides creators, brands, agencies, and platforms with actionable insights, competitive intelligence, and content strategy recommendations, delivering brief daily reports instead of raw data dumps. The service offers a free trial, API access, and aims to level the playing field for content creators of all sizes.
 
-**Areas:** Video · AI · Analytics · Marketing · Short-form
+**Areas:** Company · Video · AI · Analytics · Short-form · Marketing
 
 ## MoonScroll on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for MoonScroll is published on APIs.io rather than in this r
 
 ### APIs (1)
 
-- [MoonScroll API](https://apis.io/apis/moonscroll-ai/moonscroll-api/) — API reference and terms are provided at https://moonscroll.ai/api-terms/.
+- [MoonScroll API](https://apis.io/apis/moonscroll-ai/moonscroll-api/) — API for MoonScroll video intelligence platform
 
 ### Published properties
 
@@ -97,19 +97,19 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://moonscroll.ai/)
-- [Documentation](https://moonscroll.ai/about/)
-- [API reference](https://moonscroll.ai/api-terms/)
+- [Getting started](https://moonscroll.ai/pricing/)
 - [Pricing](https://moonscroll.ai/pricing/)
+- [Support](https://my.moonscroll.ai/login/)
 - [Terms of service](https://moonscroll.ai/terms-of-service/)
 - [Privacy policy](https://moonscroll.ai/privacy-policy/)
 
 ## API Evangelist rating
 
-**Kin Score 17.5** — emerging · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 17.6** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
